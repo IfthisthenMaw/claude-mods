@@ -26,7 +26,7 @@ const MAX_TASKS = 200
 const MAX_AFTER = 20
 const MAX_TITLE = 120
 const MAX_RUNS = 200
-// Avon brand red for a live plan, green once closed.
+// Red for a live plan, green once closed.
 const ACCENT = '#E4003B'
 const DONE = '#3B9C5F'
 

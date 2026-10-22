@@ -1,6 +1,6 @@
 {
   "name": "agent-progress",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Progress band above the prompt for planned multi-agent work, plus an agents pane (/agents-info): running, finished and planned subagents with model, steps, context, estimated cost and time.",
   "types": "./types/index.d.ts",
   "userConfig": {
