@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "IfthisthenMaw", "url": "https://github.com/IfthisthenMaw" },
+  "metadata": { "description": "Personal Claude Code mods." },
+  "plugins": [
+    {
+      "name": "agent-progress",
+      "source": "./plugins/agent-progress",
+      "description": "Mod: progress band above the prompt and an agents pane (/agents-info) for planned multi-agent work.",
+      "version": "0.1.0",
+      "category": "mod"
+    }
+  ]
+}

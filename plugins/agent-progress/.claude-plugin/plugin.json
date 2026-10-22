@@ -1,0 +1,15 @@
+{
+  "name": "agent-progress",
+  "version": "0.1.0",
+  "description": "Progress band above the prompt for planned multi-agent work, plus an agents pane (/agents-info): running, finished and planned subagents with model, steps, context, estimated cost and time.",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "autoOpen": {
+      "type": "string",
+      "title": "Open the agents pane",
+      "description": "plan: when a plan is reported; any: also, once per session, when any subagent starts",
+      "default": "plan",
+      "options": ["plan", "any"]
+    }
+  }
+}
